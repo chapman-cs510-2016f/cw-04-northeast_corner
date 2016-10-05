@@ -1,8 +1,8 @@
 # CS510 CW 4
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Eric Freda
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-04-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-04-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-04-northeast_corner.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-04-northeast_corner)
 
 **Due date:** 2016/09/27
 
@@ -39,4 +39,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Eric Freda
