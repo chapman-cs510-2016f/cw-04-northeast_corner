@@ -28,7 +28,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Figuring out how to modify the algorithm to work as a generator was helpful since it required me to rethink the algorithm from a different angle.
 
 ## Honor Pledge
 
